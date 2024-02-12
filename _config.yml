@@ -42,7 +42,7 @@ github: faisalmasran
 email: m.faisal.masran@gmail.com
 
 authors:
-  johndoe:
+  faisalmasran:
     name: Faisal Masran
     bio: Highly experience quality engineering professional
     external-image: false
@@ -58,7 +58,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
